@@ -11,6 +11,6 @@ $ pip install mechanize
 $ pip install futures  
 $ rm -rf smb  
 $ git clone --depth=1 https://github.com/waheedtopi/SMB
-$ cd smb 
+$ cd SMB 
 $ git pull  
 $ python SMB.py
